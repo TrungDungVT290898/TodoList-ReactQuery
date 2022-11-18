@@ -1,5 +1,5 @@
 export interface IToDo {
-  id: number;
+  id?: number;
   name: string;
   isComplete: boolean;
 }

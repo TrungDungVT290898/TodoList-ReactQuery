@@ -20,7 +20,8 @@ const todoAPI = {
   },
   update: async (newItem: IToDo) => {
     try {
-      const data = await axiosClient.put("/todos", newItem);
+      const data = await axiosClient.patch(`/todos/${newItem.id}`, newItem);
+      console.log(data);
       return data.data as IToDo;
     } catch (error) {}
 
@@ -32,3 +33,4 @@ const todoAPI = {
     } catch (error) {}
   },
 };
+export default todoAPI;

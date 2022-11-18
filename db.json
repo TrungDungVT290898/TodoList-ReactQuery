@@ -62,14 +62,9 @@
   ],
   "todos": [
     {
-      "id": 1,
-      "name": "Quét nhà",
-      "isComplete": false
-    },
-    {
-      "id": 2,
-      "name": "Giặt đồ",
-      "isComplete": false
+      "name": "ngủ nhiều hơn 6 tiếng",
+      "isComplete": false,
+      "id": 1
     }
   ]
 }

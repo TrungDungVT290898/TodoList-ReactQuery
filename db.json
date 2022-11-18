@@ -1,0 +1,75 @@
+{
+  "superheroes": [
+    {
+      "id": 4,
+      "name": "Hihi",
+      "alterEgo": ""
+    },
+    {
+      "name": "Ant Man",
+      "alterEgo": "Trung Dan",
+      "id": 6
+    },
+    {
+      "name": "Hulk",
+      "alterEgo": "Johnson",
+      "id": 7
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Độ",
+      "fullname": "Đức Độ"
+    },
+    {
+      "id": 2,
+      "name": "Quý",
+      "fullname": "Tấn Quý"
+    },
+    {
+      "id": 3,
+      "name": "Dũng",
+      "fullname": "Trung Dũng"
+    },
+    {
+      "id": 4,
+      "name": "Hiếu",
+      "fullname": "Trọng Hiếu"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "red",
+      "fullname": "Đức Độ"
+    },
+    {
+      "id": 2,
+      "name": "green",
+      "fullname": "Tấn Quý"
+    },
+    {
+      "id": 3,
+      "name": "yellow",
+      "fullname": "Trung Dũng"
+    },
+    {
+      "id": 4,
+      "name": "blue",
+      "fullname": "Trọng Hiếu"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "name": "Quét nhà",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "Giặt đồ",
+      "isComplete": false
+    }
+  ]
+}
